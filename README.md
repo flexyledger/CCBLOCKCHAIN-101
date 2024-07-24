@@ -1,3 +1,6 @@
+<!-- Background github cover with short introduction down below -->
+<img src="https://github.com/flexycode/CCBLOCKCHAIN-101/assets/BlockchainTechnology X.png" />
+
 # 💫 CCBLOCKCHAIN Blockchain Technology
 
 <div style="display: flex; justify-content: space-between;">
